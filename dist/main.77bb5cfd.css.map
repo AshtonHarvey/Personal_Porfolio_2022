@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\reset.scss"],"names":[],"mappings":"AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;EAYE;EACA;EACA","file":"main.77bb5cfd.css","sourceRoot":"..\\src","sourcesContent":["body,\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\nh6,\r\np,\r\nol,\r\nul,\r\nfigure,\r\nmain {\r\n  margin: 0;\r\n  padding: 0;\r\n  font-weight: normal;\r\n}\r\n"]}
